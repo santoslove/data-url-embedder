@@ -18,3 +18,5 @@ Example output:
     <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAADAQMAAABh+Fe7AAAABlBMVEX/AP////+fGDLgAAAADklEQVQI12MIYBBgCAAAAhYAsR0KavoAAAAASUVORK5CYII=" download="image.png">
 </html>
 ```
+
+This code is [public domain](https://creativecommons.org/publicdomain/zero/1.0/), please do whatever you want with it.
